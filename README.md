@@ -344,8 +344,17 @@ This project is provided under the MIT License. See `LICENSE` file for details.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
 ---
+## 📫 Contact
 
+For issues, questions, or collaboration inquiries, please contact:
 
+| Name             | Email                        |
+|------------------|------------------------------|
+| Paresh Pandya    | pareshpandya026@gmail.com    |
+| Shital Deshpande | shitaldeshpande21@gmail.com  |
+
+---
 **Last Updated**: February 2026  
 **Version**: 1.0.0
