@@ -1,4 +1,4 @@
-# Patent Change Tracker
+# Patent Legal Status Monitoring
 
 Application is detection system featuring automated HTML report ingestion, author-based document segmentation, difference highlighting, and structured data export. Implements configurable thread-pool batch processing for high-throughput patent monitoring workflows.
 
@@ -358,3 +358,4 @@ For issues, questions, or collaboration inquiries, please contact:
 ---
 **Last Updated**: February 2026  
 **Version**: 1.0.0
+
